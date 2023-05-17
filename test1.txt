@@ -1,3 +1,7 @@
 Question2: adding new file- Step2
 Step5: modify file in local
 Step7: again modify the file
+
+******************************************************************************
+Question5: step6: modify existing files and commit those, push these to origin
+******************************************************************************
